@@ -1,4 +1,4 @@
-### Hi!! Priyambada Mohapatra this side 👋 <img src="https://github.com/ABSphreak/ABSphreak/tree/master/gifs/Hi.gif"></h2>
+### Hi!! Priyambada Mohapatra this side 👋
 
 <!--
 **PriyambadaMohapatra/PriyambadaMohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
