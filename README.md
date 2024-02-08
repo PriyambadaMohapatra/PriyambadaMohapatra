@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Priyambada Mohapatra</h1>
 <h3 align="center">I am an enthusiastic developer hailing from India.</h3>
 <p align="left">Hii! I am Priyambada Mohapatra . A Btech CSE student at JECRC University.Learning through C++, DSA as well as working on web development.</p>
-<img align="right" alt="image" width=40% src="[hackerlog.jpg](https://github.com/PriyambadaMohapatra/PriyambadaMohapatra/blob/main/hackerlogo.jpg)">
+<img align="right" alt="image" width=40% src="https://github.com/PriyambadaMohapatra/PriyambadaMohapatra/blob/main/hackerlogo.jpg">
 
 - 🌱 I’m currently learning **C++,react**
 
