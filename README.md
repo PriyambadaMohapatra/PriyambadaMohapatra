@@ -1,5 +1,3 @@
-### Hi!! Priyambada Mohapatra this side 👋
-
 <h1 align="center">Hi 👋, I'm Priyambada Mohapatra</h1>
 <h3 align="center">I am an enthusiastic developer hailing from India.</h3>
 <p align="left">Hii! I am Priyambada Mohapatra . A Btech CSE student at JECRC University.Learning through C++, DSA as well as working on web development.</p>
