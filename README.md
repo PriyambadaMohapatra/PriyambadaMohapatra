@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Priyambada Mohapatra</h1>
-<h3 align="center">I am an enthusiastic developer hailing from India.</h3>
-<p align="left">Hii! I am Priyambada Mohapatra . A Btech CSE student at JECRC University.Learning through C++, DSA as well as working on web development.</p>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/priyambada-mohapatra/">Priyambada Mohapatra</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">Developer || Designer || Creator </h3>
+Hello! I am Priyambada Mohapatra, a student pursuing a Bachelor of Technology in Computer Science at JECRC University. Presently, I am honing my skills in C++ and delving into the intricacies of Data Structures and Algorithms. Additionally, I have attained proficiency in HTML and CSS, and I am currently engaged in advancing my knowledge of JavaScript.
 <img align="right" alt="image" width=40% src="https://github.com/PriyambadaMohapatra/PriyambadaMohapatra/blob/main/hacker-logo.PNG">
-
-- 🌱 I’m currently learning **C++,react**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **priyambadamohapatra29@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/priyambada-mohapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyambada-mohapatra" height="30" width="40" /></a>
